@@ -1,3 +1,4 @@
+```
 List<Integer> nums = new List<Integer>();
 Integer i = 0, max=21;
 
@@ -15,4 +16,5 @@ while(i<max){
     }
     i+=1;
 }
+```
 
